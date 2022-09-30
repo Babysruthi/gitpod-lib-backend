@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //comment edited check edited..
 //edited-abc
 //main class
+//fghj
 @SpringBootApplication
 public class RevatureApplication {
 	private static final Logger logger = LogManager.getLogger(RevatureApplication.class);
