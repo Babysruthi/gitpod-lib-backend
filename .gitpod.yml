@@ -6,3 +6,7 @@ tasks:
   - init: docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=Pass123$ -d mysql:5.7 && sudo apt install maven && docker exec -it some-mysql  mysql -uroot -pPass123$ 
 #change added
 
+
+vscode:
+ extensions:
+   - kyntrack.gitpod-plugin
